@@ -10,7 +10,7 @@ First, clone the project to somewhere on kalabaw: <br>
 
 Then run the following commands to see <br>
   __cd crack-VATIC-db__ <br>
-  __python crack_db.py --video_slug <video_name> --x1 <x1> --y1 <y1> --x2 <x2> --y2 <y2>__ <br>
+  __python crack_db.py --video_slug \<video_name\> --x1 <x1> --y1 <y1> --x2 <x2> --y2 <y2>__ <br>
   
 Here are two examples: <br>
   __python crack_db.py --video_slug 'video3_00104' --x1 50 --y1 50 --x2 200 --y2 200__ <br>
